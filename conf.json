@@ -1,6 +1,6 @@
 {
-    "UNHANGOUT_GOOGLE_CLIENT_ID":"client_id",
-    "UNHANGOUT_GOOGLE_CLIENT_SECRET":"secret",
+    "UNHANGOUT_GOOGLE_CLIENT_ID":" 891015383844-nm7ekcluekqapql7tvh4r77jrjg6lqii.apps.googleusercontent.com ",
+    "UNHANGOUT_GOOGLE_CLIENT_SECRET":" ALVRrwRjs7Rmb_SbzeNQH-rj ",
     "UNHANGOUT_SESSION_SECRET":"sessionsecret",
     "UNHANGOUT_EVENTS_SPREADSHEET": "... google spreadsheet key ...",
 
@@ -19,10 +19,10 @@
 
     "UNHANGOUT_SERVER_EMAIL_ADDRESS": "node@yourserver.example.com",
 
-    "UNHANGOUT_SUPERUSER_EMAILS": ["user1@example.com", "user2@example.com"],
+    "UNHANGOUT_SUPERUSER_EMAILS": ["dalareo@gmail.com", "user2@example.com"],
     "UNHANGOUT_MANAGERS": ["manager1@example.com"],
 
-    "UNHANGOUT_HANGOUT_APP_ID": 123456789012,
+    "UNHANGOUT_HANGOUT_APP_ID": 337607402011,
     "UNHANGOUT_HANGOUT_ORIGIN_REGEX": "^https://[-a-z0-9]+hangout-opensocial.googleusercontent.com$",
 
     "UNHANGOUT_USE_SSL":false,
