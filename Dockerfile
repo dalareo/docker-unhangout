@@ -10,4 +10,5 @@ RUN cd /opt && git clone https://github.com/unhangout/unhangout
 RUN echo "{ }" >> /opt/unhangout/conf.json
 RUN cd /opt/unhangout && npm install
 WORKDIR /opt/unhangout
+ENV NODE_ENV production
 CMD ["npm", "start"]
